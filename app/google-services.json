@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697233287858",
+    "firebase_url": "https://alfredtechnologies-5fb71.firebaseio.com",
+    "project_id": "alfredtechnologies-5fb71",
+    "storage_bucket": "alfredtechnologies-5fb71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697233287858:android:423b0e2b915e2a903477ab",
+        "android_client_info": {
+          "package_name": "com.alfredtechnologies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697233287858-vfnbabqjpdk4e38ost5s394p2jh1vgl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JhpOGkxshgmPY0Q-EUQk7H8SOtdapUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697233287858-vfnbabqjpdk4e38ost5s394p2jh1vgl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
